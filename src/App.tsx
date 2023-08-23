@@ -1,9 +1,9 @@
-import logo from "./assets/logo.svg";
+import Header from "./sections/Heading";
 
 function App() {
   return (
-    <div className="bg-primary">
-      <img src={logo} alt="logo" />
+    <div>
+      <Header />
     </div>
   );
 }
