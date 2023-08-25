@@ -8,7 +8,7 @@ const Heading = () => {
       <Navbar />
       <Header />
       <a href="#service">
-        <div className="absolute bottom-0 left-1/2 flex justify-center  pb-8">
+        <div className="absolute bottom-0 left-1/2 flex justify-center pb-8 translate-x-[-50%]">
           <MdOutlineKeyboardArrowDown className="text-white text-4xl hover:scale-110 hover:border-white hover:border-2  rounded-full p-1 cursor-pointer ease-in-out duration-200" />
         </div>
       </a>
