@@ -1,3 +1,4 @@
+import Brands from "./sections/Brands";
 import Header from "./sections/Heading";
 import Service from "./sections/Service";
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Header />
       <Service />
+      <Brands />
     </div>
   );
 }

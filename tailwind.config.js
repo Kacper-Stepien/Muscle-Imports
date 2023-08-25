@@ -11,6 +11,7 @@ export default {
         primary: "#4C020E",
       },
       screens: {
+        bigphone: "600",
         phone: "400px",
       },
     },

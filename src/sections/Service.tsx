@@ -4,7 +4,7 @@ import services from "../data/services";
 
 const Service = () => {
   return (
-    <div className="xl:px-48 phone:px-16 px-8 py-16 mt-16" id="service">
+    <section className="xl:px-48 phone:px-16 px-8 py-16 mt-16" id="service">
       <H2 text="Our Service" />
       <p className="text-lg text-justify">
         At Muscle Import, we're dedicated to turning your automotive dreams into
@@ -23,7 +23,7 @@ const Service = () => {
           />
         ))}
       </ul>
-    </div>
+    </section>
   );
 };
 
