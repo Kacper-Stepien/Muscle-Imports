@@ -1,6 +1,7 @@
 import Brands from "./sections/Brands";
 import CarsImported from "./sections/CarsImported";
 import Header from "./sections/Heading";
+import Opinions from "./sections/Opinions";
 import Service from "./sections/Service";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Service />
       <Brands />
       <CarsImported />
+      <Opinions />
     </div>
   );
 }
