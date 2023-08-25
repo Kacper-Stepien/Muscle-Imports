@@ -4,7 +4,7 @@ import logo from "../assets/logo.svg";
 import { useState } from "react";
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(open);
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
     <nav className="flex justify-between items-center px-4">
@@ -36,7 +36,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="lg:hidden z-50">
-        <button onClick={() => setIsOpen((prev) => !prev)}>
+        <button onClick={() => setIsOpen((prev: boolean) => !prev)}>
           {isOpen ? (
             <IoCloseSharp className="text-white text-4xl" />
           ) : (
