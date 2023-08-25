@@ -5,7 +5,7 @@ import opinions from "../data/opinions";
 const Opinions = () => {
   return (
     <section
-      className="xl:px-48 phone:px-16 px-8 py-16 mt-24 bg-primary"
+      className="xl:px-48 phone:px-16 px-8 py-32 mt-24 bg-primary"
       id="opinions"
     >
       <H2 text="What Our Customers Say?" light />
