@@ -7,7 +7,7 @@ const Navbar = () => {
       <ul className="flex space-x-16 text-[1.6rem]">
         <li>
           <a
-            href="#"
+            href="#service"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
             SERVICES
@@ -15,7 +15,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="#opinions"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
             OPINIONS
@@ -23,7 +23,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="#contact"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
             CONTACT
