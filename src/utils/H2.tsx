@@ -8,7 +8,7 @@ interface Props {
 const H2: FC<Props> = ({ text, light }) => {
   return (
     <h2
-      className={`sm:text-4xl text-3xl font-bold mb-8 ${
+      className={`sm:text-4xl text-3xl font-bold mb-6 ${
         light ? "text-white" : "text-gray-900"
       }`}
     >

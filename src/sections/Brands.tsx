@@ -6,7 +6,7 @@ import H2 from "../utils/H2";
 
 const Brands = () => {
   return (
-    <section className="bg-primary xl:px-48 phone:px-16 px-8 py-16 mt-16">
+    <section className="bg-primary xl:px-48 phone:px-16 px-8 py-16 mt-24">
       <H2 text="Brands We Are Specialized In" light />
       {/* <div className="flex sm:flex-row flex-col justify-between items-center gap-8 mt-16">
         <img

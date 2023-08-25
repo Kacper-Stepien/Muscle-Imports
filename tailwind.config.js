@@ -6,12 +6,12 @@ export default {
       fontFamily: {
         heading: ["Russo One", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
+        lato: ["Lato", "sans-serif"],
       },
       colors: {
         primary: "#4C020E",
       },
       screens: {
-        bigphone: "600",
         phone: "400px",
       },
     },
