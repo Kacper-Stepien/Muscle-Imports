@@ -1,9 +1,9 @@
-import chevroletCamaro from "../assets/images/cars/chevrolete-camaro.jpg";
-import chevroletCorvette from "../assets/images/cars/chevrolet-corvette.jpg";
-import dodgeChallenger from "../assets/images/cars/dodge-challenger.jpg";
-import dodgeCharger from "../assets/images/cars/dodge-charger.jpg";
-import dodgeCharger2 from "../assets/images/cars/dodge-charger-2.jpg";
-import fordShelby from "../assets/images/cars/ford-shelby.jpg";
+import chevroletCamaro from "../assets/images/cars/chevrolete-camaro.webp";
+import chevroletCorvette from "../assets/images/cars/chevrolet-corvette.webp";
+import dodgeChallenger from "../assets/images/cars/dodge-challenger.webp";
+import dodgeCharger from "../assets/images/cars/dodge-charger.webp";
+import dodgeCharger2 from "../assets/images/cars/dodge-charger-2.webp";
+import fordShelby from "../assets/images/cars/ford-shelby.webp";
 
 const cars = [
   {
