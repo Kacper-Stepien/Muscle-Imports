@@ -1,6 +1,7 @@
 import Brands from "./sections/Brands";
 import CarsImported from "./sections/CarsImported";
 import Contact from "./sections/Contact";
+import Footer from "./sections/Footer";
 import Header from "./sections/Heading";
 import Opinions from "./sections/Opinions";
 import Service from "./sections/Service";
@@ -14,6 +15,7 @@ function App() {
       <CarsImported />
       <Opinions />
       <Contact />
+      <Footer />
     </div>
   );
 }
