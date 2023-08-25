@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 
 const Heading = () => {
   return (
-    <div className="bg-primary text-white p-8 h-screen bg-[url('./assets/images/heading.jpg')] bg-no-repeat bg-cover bg-center">
+    <div className="bg-primary text-white sm:p-8 p-2 py-4 h-screen bg-[url('./assets/images/heading.jpg')] bg-no-repeat bg-cover bg-center">
       <Navbar />
       <Header />
       <a href="#service">

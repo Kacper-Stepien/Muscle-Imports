@@ -4,7 +4,7 @@ import cars from "../data/cars";
 
 const CarsImported = () => {
   return (
-    <section className="xl:px-48 phone:px-16 px-8 py-16 mt-24">
+    <section className="xl:px-48 phone:px-16 px-8 py-16 phone:mt-24 mt-8">
       <H2 text="Cars We Have Imported" />
       <p className="text-lg text-justify">
         The stated price is the final amount paid by the customer, including

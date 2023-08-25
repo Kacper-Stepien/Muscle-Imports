@@ -7,7 +7,7 @@ import statueOfLiberty from "../assets/images/liberty-statue.png";
 const Contact = () => {
   return (
     <section
-      className="xl:px-48 phone:px-16 px-8 py-16 pb-24 mt-24 relative"
+      className="xl:px-48 phone:px-16 px-8 py-16 pb-24 phone:mt-24 mt-8 relative"
       id="contact"
     >
       <H2 text="Contact Us" />

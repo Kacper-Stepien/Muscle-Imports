@@ -4,7 +4,10 @@ import services from "../data/services";
 
 const Service = () => {
   return (
-    <section className="xl:px-48 phone:px-16 px-8 py-16 mt-24" id="service">
+    <section
+      className="xl:px-48 phone:px-16 px-8 py-16 phone:mt-24 mt-8"
+      id="service"
+    >
       <H2 text="Our Service" />
       <p className="text-lg text-justify">
         At Muscle Import, we're dedicated to turning your automotive dreams into
