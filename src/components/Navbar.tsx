@@ -55,7 +55,7 @@ const Navbar = () => {
               href="#service"
               className="text-gray-300 hover:text-white ease-in-out duration-200"
             >
-              SERVICES
+              USŁUGA
             </a>
           </li>
           <li className="mb-4">
@@ -63,7 +63,7 @@ const Navbar = () => {
               href="#opinions"
               className="text-gray-300 hover:text-white ease-in-out duration-200"
             >
-              OPINIONS
+              OPINIE
             </a>
           </li>
           <li className="mb-4">
@@ -71,7 +71,7 @@ const Navbar = () => {
               href="#contact"
               className="text-gray-300 hover:text-white ease-in-out duration-200"
             >
-              CONTACT
+              KONTAKT
             </a>
           </li>
         </ul>
