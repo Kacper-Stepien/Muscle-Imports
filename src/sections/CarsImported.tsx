@@ -5,10 +5,10 @@ import cars from "../data/cars";
 const CarsImported = () => {
   return (
     <section className="xl:px-48 phone:px-16 px-8 py-16 phone:mt-24 mt-8">
-      <H2 text="Cars We Have Imported" />
+      <H2 text="Samochody, które sprowadziliśmy" />
       <p className="text-lg text-justify">
-        The stated price is the final amount paid by the customer, including
-        tax, transportation, etc.
+        Podana cena to ostateczna kwota zapłacona przez klienta, obejmująca
+        podatek, transport, itp.
       </p>
       <ul className="grid md:grid-cols-2 gap-16 mt-16">
         {cars.map((car) => (

@@ -20,7 +20,7 @@ const ServiceInfo: FC<Props> = ({ id, title, description, alignEnd }) => {
           {id}
         </p>
         <p className="text-lg text-justify">
-          <em className="font-bold text-primary">{title}: </em>
+          <span className="font-bold text-primary">{title}: </span>
           {description}
         </p>
       </div>

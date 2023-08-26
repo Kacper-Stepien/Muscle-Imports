@@ -1,39 +1,39 @@
 const services = [
   {
     id: 1,
-    title: "Personalized Car Search",
+    title: "Spersonalizowane poszukiwanie samochodu",
     description:
-      "You describe your dream car down to the smallest detail, and we take care of the rest. From the make and model to the color and features, we listen carefully to your desires.",
+      "Opisujesz nam swój wymarzony samochód w najdrobniejszych szczegółach, a resztą zajmujemy się my. Od marki, modelu, wersji silnika, po kolor i wyposażenie - uważnie słuchamy Twoich pragnień.",
   },
   {
     id: 2,
-    title: "Budget Flexibility",
+    title: "Budżet na miarę Twoich potrzeb",
     description:
-      "Share your budget with us, and we'll work within your financial limits. Our transparent pricing ensures that you get the best value for your investment.",
+      "Podziel się z nami swoim budżetem, a my dostosujemy się do Twoich ograniczeń finansowych. Nasza przejrzysta polityka cenowa sprawi, że otrzymasz to co chcesz, w cenie, na którą możesz sobie pozwolić.",
   },
   {
     id: 3,
-    title: "In-Person Car Inspection",
+    title: "Osobista inspekcja samochodu",
     description:
-      "We take the guesswork out of car buying. Once we've identified potential options, we conduct in-person inspections, capturing detailed photos that we share with you.",
+      "Gdy już zidentyfikujemy potencjalny samochód odpowiadający Twoim potrzebom, sprawdzimy go dokładnie na miejscu. Dla Twojej wygody wykonamy szczegółowe zdjęcia, które udostępnimy Tobie, abyś mógł podjąć decyzję.",
   },
   {
     id: 4,
-    title: "Customized Recommendations",
+    title: "Konsultacje z Tobą",
     description:
-      "If the initial options don't match your vision, we'll continue the search until we find the perfect fit. Your satisfaction is our priority.",
+      "Jeśli wyszukany samochód nie spełni Twoich oczekiwań, będziemy kontynuować poszukiwania, aż znajdziemy idealne dopasowanie. Twoja satysfakcja jest naszym priorytetem.",
   },
   {
     id: 5,
-    title: "Doorstep Delivery",
+    title: "Dostawa pod drzwi",
     description:
-      "Once we've found your ideal car, we bring it from the USA right to your doorstep. No need to worry about logistics – we handle it all.",
+      "Gdy już znajdziemy Twój wymarzony samochód, dostarczymy go z USA prosto pod twoje drzwi. Nie musisz się martwić logistyką - my się tym zajmujemy.",
   },
   {
     id: 6,
-    title: "Competitive Pricing",
+    title: "Konkurencyjne ceny",
     description:
-      "Quality doesn't have to come at a high cost. Our commitment to affordable pricing ensures that you get a fantastic deal without compromising on excellence.",
+      "Jakość nie musi wiązać się z wysokimi kosztami. Nasze doświadczenie i znajomość rynku pozwala nam na znalezienie najlepszych ofert w najniższych cenach.",
   },
 ];
 

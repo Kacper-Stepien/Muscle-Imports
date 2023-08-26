@@ -9,13 +9,13 @@ const Navbar = () => {
   return (
     <nav className="flex justify-between items-center px-4">
       <img src={logo} alt="logo" className="sm:w-60 phone:w-40 w-36 z-50" />
-      <ul className="lg:flex hidden space-x-16 text-[1.6rem] ">
+      <ul className="lg:flex hidden space-x-16 text-[1.4rem] ">
         <li>
           <a
             href="#service"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
-            SERVICES
+            USŁUGA
           </a>
         </li>
         <li>
@@ -23,7 +23,7 @@ const Navbar = () => {
             href="#opinions"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
-            OPINIONS
+            OPINIE
           </a>
         </li>
         <li>
@@ -31,7 +31,7 @@ const Navbar = () => {
             href="#contact"
             className="text-gray-300 hover:text-white ease-in-out duration-200"
           >
-            CONTACT
+            KONTAKT
           </a>
         </li>
       </ul>

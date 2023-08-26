@@ -8,10 +8,9 @@ const Opinions = () => {
       className="xl:px-48 phone:px-16 px-8 py-32 phone:mt-24 mt-8 bg-primary"
       id="opinions"
     >
-      <H2 text="What Our Customers Say?" light />
+      <H2 text="Co mówią nasi klienci?" light />
       <p className="text-lg text-justify text-white">
-        Hear genuine stories from our satisfied customers about their
-        exceptional experiences with us.
+        Posłuchaj opini naszych klientów, którzy nam zaufali.
       </p>
       <ul className="grid lg:grid-cols-3 gap-16 mt-16">
         {opinions.map((opinion) => (

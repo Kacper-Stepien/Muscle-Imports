@@ -7,7 +7,7 @@ import H2 from "../utils/H2";
 const Brands = () => {
   return (
     <section className="bg-primary xl:px-48 phone:px-16 px-8 py-16 phone:mt-24 mt-8">
-      <H2 text="Brands We Are Specialized In" light />
+      <H2 text="Marki, w których się specjalizujemy" light />
       <div className="grid grid-cols-2  items-center sm:grid-cols-4 gap-8 mt-16">
         <img src={Ford} alt="ford" className="2xl:w-60" />
         <img src={Chevrolet} alt="chevrolet" className="2xl:w-60" />

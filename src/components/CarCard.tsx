@@ -21,7 +21,7 @@ const CardCard: FC<Props> = ({ name, year, price, image }) => {
           <p>{year}</p>
         </div>
         <p className="text-primary text-xl  font-bold whitespace-nowrap">
-          {formatPrice(price)} $
+          {formatPrice(price)} zł
         </p>
       </div>
     </li>

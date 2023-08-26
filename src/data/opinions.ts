@@ -5,25 +5,25 @@ import mark from "../assets/images/customers/Mark.jpg";
 const opinions = [
   {
     id: 1,
-    name: "Mark Weber",
+    name: "Tomasz Żywicki",
     opinion:
-      "I couldn't be happier with Muscle Import's service. They made importing my dream Ford Mustang Shelby GT500 from the USA a breeze. Professionalism at its best!",
+      "Nie mogę być bardziej zadowolony z usług Muscle Imports. Sprowadzenie mojego wymarzonego Forda Mustanga Shelby GT500 z USA było w ich wykonaniu dziecinnie proste. Profesjonalizm w najlepszym wydaniu!",
     star: 4.8,
     image: mark,
   },
   {
     id: 2,
-    name: "Alex Pattison",
+    name: "Piotr Baczewski",
     opinion:
-      "From start to finish, Muscle Import impressed me. Their attention to detail and seamless process made getting my imported Dodge Charger an unforgettable experience.",
+      "Muscle Imports zrobiło na mnie dobre wrażenie już na samym początku.. Ich dbałość o szczegóły i indywidualne podejście do klienta sprawiły, że sprowadzenie mojego cudownego Dodge'a Chargera było wyjątkowym doświadczeniem.",
     star: 4.5,
     image: alex,
   },
   {
     id: 3,
-    name: "Emily Smith",
+    name: "Emilia Fabiańska",
     opinion:
-      "Choosing Muscle Import was a game-changer. The price I paid for my imported Chevrolet Corvette included everything, and their team's dedication to customer satisfaction is truly commendable.",
+      "Wybór Muscle Imports to strzał w dziesiątkę. Sprostali moim oczekiwaniom w 100%. Wszystko przebiegło sprawnie i bezproblemowo. Polecam każdemu, kto chce sprowadzić samochód z USA.",
     star: 5.0,
     image: emily,
   },
